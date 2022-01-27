@@ -23,6 +23,7 @@ Using 2 syncronous taks to process one FIFO queue ([example_1.py](example_1.py))
 python example_1.py
 ```
 
+### Cooperative Concurrency
 Using 2 pseudo concurrence tasks switching to process one FIFO queue ([example_2.py](example_2.py))
 ```bash
 # run example
