@@ -1,8 +1,8 @@
 
 # async
+Synchronous and asynchronous tasks examples
 
 ## How to dev
-Synchronous and asynchronous tasks examples
 
 ### Linux
 ```bash
@@ -21,6 +21,12 @@ Using 2 syncronous taks to process one FIFO queue ([example_1.py](example_1.py))
 ```bash
 # run example
 python example_1.py
+```
+
+Using 2 pseudo concurrence tasks switching to process one FIFO queue ([example_2.py](example_2.py))
+```bash
+# run example
+python example_2.py
 ```
 
 ## Reference:
